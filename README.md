@@ -5,7 +5,7 @@ Python3 and the following packages:
 * numpy
 * PIL
 
-# Run usage
+# How to run
 ```
 python draw_textBoxes.py <target_gbk_files>
 ```
