@@ -1,3 +1,8 @@
+# Intro  
+This program takes in a list of genbank files and draws a plot containing the graphical representation of their genes in the correct order.  
+
+This script has been tested in the context of mithocondrial genome sequences, therefore it's been tested with up to 20 genes per sequence. If you are working with a larger number of genes it's possible that the final plot won't look great. In that case you need to manually adjust the `draw_textBoxes.py` script. 
+
 # Requirements
 Python3 and the following packages:   
 * Biopython
