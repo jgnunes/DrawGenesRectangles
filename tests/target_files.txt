@@ -1,0 +1,10 @@
+Cervus_elaphus.mitogenome.gb
+Cervus_elaphus.mitogenome.ND1.end.gb 
+Cervus_elaphus.mitogenome.01.gb
+Cervus_elaphus.mitogenome.02.gb 
+Cervus_elaphus.mitogenome.03.gb 
+Cervus_elaphus.mitogenome.04.gb
+Cervus_elaphus.mitogenome.05.gb
+Cervus_elaphus.mitogenome.06.gb  
+Cervus_elaphus.mitogenome.07.gb  
+Cervus_elaphus.mitogenome.08.gb  
