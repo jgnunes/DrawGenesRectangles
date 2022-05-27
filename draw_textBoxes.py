@@ -68,22 +68,10 @@ def parse_genbank_files(genbank_list):
             draw_rectangles(genes_list, out_plot_filename)
             individual_plot_files.append(out_plot_filename)
     
-#    individual_plot_files = [] 
-#    for f in os.listdir("."):
-#        if f.endswith(".genes.png"):
-#            individual_plot_files.append(f)
-    
-    merge_images(individual_plot_files, "concatenated_images.png")    
+    merge_images(individual_plot_files, "all_seqs.png")    
 
 if __name__ == "__main__":
     
-    #genes_in = sys.argv[1]
-    #out_file = sys.argv[2]
-    #genes_list = genes_in.split(",")
-    #draw_rectangles(genes_list, out_file)
     
     in_genbank = sys.argv[1]
-    #genes_list = get_gene_list(in_genbank)
-    #print(genes_list)
-    #draw_rectangles(genes_list)
     parse_genbank_files(in_genbank)
