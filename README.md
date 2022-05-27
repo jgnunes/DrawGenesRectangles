@@ -31,4 +31,5 @@ python ../draw_textBoxes.py target_files.txt
 
 This should generate a `all_seqs.png` file, that looks like:  
 
-![](images/all_seqs.png)
+
+<img src="images/all_seqs.png" width=50% height=50%>
