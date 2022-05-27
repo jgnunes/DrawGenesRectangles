@@ -20,3 +20,15 @@ seq3.gb
 
 Note:   
 If a genbank file is not in the current working directory, you need to specify the path to the file. 
+
+# Test
+A `tests/` directory is provided for you to test the installation. 
+
+Go to that directory and run the script: 
+```
+python ../draw_textBoxes.py target_files.txt
+```
+
+This should generate a `all_seqs.png` file, that looks like:  
+
+![](images/all_seqs.png)
